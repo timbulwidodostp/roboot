@@ -1,0 +1,27 @@
+.-
+help for ^roboot^
+.-
+
+Combine MM-estimation with bootstrapped (one- or two-way clustered) standard errors.
+----------------------
+
+ ^roboot^
+ 
+Description
+-----------
+
+^roboot^ Combine MM-estimation with bootstrapped (one- or two-way clustered) standard errors.
+     
+^Note:^ Requires roboot.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^roboot roboot roboot_1 roboot_2 roboot_3, eff(95) cluster(Id Year) nboot(1000)^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
