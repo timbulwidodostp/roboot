@@ -1,6 +1,8 @@
 # roboot
 Combine MM-estimation with bootstrapped (one- or two-way clustered) standard errors Use roboot With STATA 19
 
+https://www.youtube.com/watch?v=wKI5dTLI68A
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
